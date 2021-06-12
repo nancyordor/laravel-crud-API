@@ -8,6 +8,7 @@ MySQL
 
 ## Installation
 * Clone this repo
+
 ```https://github.com/nancyordor/laravel-crud-API.git```
 * Change directory to the project
 ```cd crud-api```
@@ -22,4 +23,4 @@ MySQL
 ```php artisan serve```
 
 ## Usage
-Kindly visit the [Postman API Documentation] (https://documenter.getpostman.com/view/15314414/TzeTJpXb) to view the available endpoints
+Kindly visit the [Postman API Documentation](https://documenter.getpostman.com/view/15314414/TzeTJpXb) to view the available endpoints
